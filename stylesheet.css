@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body
+{
+background-image:url(Media/background_wood.gif);
+background-repeat:no-repeat;
+background-position:center;
+background-size:auto;
+background-color:#FF6600;
+color:#FF6600;
+}
+h1
+{
+
+}
+p
+{
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:30px;
+}
